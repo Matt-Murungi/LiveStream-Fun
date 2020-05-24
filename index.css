@@ -189,4 +189,9 @@ button.drum-roll {
     font-weight: 700;
   }
 
+  .table{
+    visibility: collapse;
+  }
+
+  
    }
