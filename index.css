@@ -1,0 +1,192 @@
+
+h3 {
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+font-weight: 400;
+}
+
+a.navbar-brand, footer  {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+button.btn {
+  
+  text-align: left;
+  font-family: 'Cormorant Garamond', serif; 
+
+}
+
+button.man:hover {
+  background-color: rgb(57, 76, 138);
+  opacity: 0.7;
+  color: white;
+  font-weight: 700;
+}
+
+button.man-strong:hover {
+  background-color: rgb(57, 76, 138);
+  opacity: 0.9;
+  color: white;
+  font-weight: 800;
+}
+
+button.lady:hover {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.6;
+  font-weight: 600;
+}
+
+button.lady-strong:hover {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.8;
+  font-weight: 700;
+}
+
+button.lady-stronger:hover {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.9;
+  font-weight: 800;
+}
+
+button.crowd:hover {
+  background-color: rgb(233, 189, 87, 0.5);
+  color: white;
+  font-weight: 600;
+}
+
+button.crowd-laugh:hover {
+    background-color: rgb(239, 198, 106, 0.7);
+    color: white;
+    font-weight: 700;
+  }
+  
+
+button.crowd-laugh-hard:hover {
+  background-color: rgb(239, 198, 106, 1);
+  color: white;
+  font-weight: 800;
+}
+
+
+button.drum-roll:hover {
+    background-color:#6e3b3b    ;
+    color: white;
+    font-weight: 800;
+  }
+
+  button.crowd-boo:hover {
+    background-color:	#bb2124;
+    color: white;
+    font-weight: 700;
+  }
+  
+  button.silence:hover {
+    background-color:	#e5e5e5;
+    color: white;
+    font-weight: 700;
+  }
+  
+  .site-footer
+{
+  margin-top: 6rem;
+  background-color:#26272b;
+ padding-bottom: 60px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+  text-align: center;
+}
+
+  @media  (min-width:400px) and (max-width:1100px)  { 
+
+   nav.navbar-brand p {
+      text-align: center;
+      
+    }
+
+button.btn {
+  
+  text-align: center;
+margin-top: 5px;
+}
+
+button.man {
+  background-color: rgb(57, 76, 138);
+  opacity: 0.7;
+  color: white;
+  font-weight: 700;
+  
+}
+
+button.man-strong {
+  background-color: rgb(57, 76, 138);
+  opacity: 0.9;
+  color: white;
+  font-weight: 800;
+}
+
+button.lady {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.6;
+  font-weight: 600;
+}
+
+button.lady-strong {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.8;
+  font-weight: 700;
+}
+
+button.lady-stronger {
+  background-color: #682d59;
+  color: white;
+  opacity: 0.9;
+  font-weight: 800;
+}
+
+button.crowd {
+  background-color: rgb(233, 189, 87, 0.5);
+  color: white;
+  font-weight: 600;
+}
+
+button.crowd-laugh {
+    background-color: rgb(239, 198, 106, 0.7);
+    color: white;
+    font-weight: 700;
+  }
+  
+
+button.crowd-laugh-hard {
+  background-color: rgb(239, 198, 106, 1);
+  color: white;
+  font-weight: 800;
+}
+
+
+button.drum-roll {
+    background-color:#6e3b3b    ;
+    color: white;
+    font-weight: 800;
+  }
+
+  button.crowd-boo {
+    background-color:	#bb2124;
+    color: white;
+    font-weight: 700;
+  }
+  
+  button.silence {
+    background-color:	#e5e5e5;
+    color: white;
+    font-weight: 700;
+  }
+
+   }
